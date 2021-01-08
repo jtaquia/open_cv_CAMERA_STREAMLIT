@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  7 20:45:26 2021
 
-@author: Intel
+@author: malraharsh
 """
 import cv2
 import streamlit as st
